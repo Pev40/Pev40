@@ -1,7 +1,5 @@
 <h3 align="center">A passionate computer scientist from Peru</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pev40&label=Profile%20views&color=0e75b6&style=flat" alt="pev40" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pev40" alt="pev40" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/pevv2016" target="blank"><img src="https://img.shields.io/twitter/follow/pevv2016?logo=twitter&style=for-the-badge" alt="pevv2016" /></a> </p>
